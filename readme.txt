@@ -3,7 +3,7 @@ Contributors: antoniomoreno
 Tags: drainware, comments, spam
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0 
+Stable tag: 1.1
 License: GPLv2 or later
 
 Drainware Comments Filter will keep your blog free of undesirable comments (bad words, pornography, violence, intolerant words) 
@@ -24,10 +24,10 @@ A GPL content filter app for Windows avaible here [Content Parental Software](ht
 
 Install
 
-*Download plugin and unzip
-*Upload the plugin file to your WordPress plugins directory inside of wp-content.
-*Activate it from the plugins menu inside of WordPress.
-*Forget that undesirable comments was ever a problem.
+1. Download plugin and unzip
+1. Upload the plugin file to your WordPress plugins directory inside of wp-content.
+1. Activate it from the plugins menu inside of WordPress.
+1. Forget that undesirable comments was ever a problem.
 
 == Changelog ==
 
