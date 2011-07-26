@@ -1,4 +1,4 @@
-=== drainware ===
+=== Drainware Comments Filter ===
 Contributors: antoniomoreno 
 Tags: drainware, comments, spam
 Requires at least: 3.0
@@ -6,7 +6,7 @@ Tested up to: 3.1
 Stable tag: 1.0 
 License: GPLv2 or later
 
-drainware checks your comments against the drainware web service to see if they look like spam or not.
+Drainware Comments Filter will keep your blog free of undesirable comments (bad words, pornography, violence, intolerant words) 
 
 == Description ==
 
