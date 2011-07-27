@@ -4,8 +4,8 @@
 /*
 Plugin Name: drainware
 Plugin URI: http://drainware.com/
-Description: Used by millions, drainware is quite possibly the best way in the world to <strong>protect your blog from comment and trackback spam</strong>. It keeps your site protected from spam even while you sleep. To get started: 1) Click the "Activate" link to the left of this description, 2) <a href="http://drainware.com/get/?return=true">Sign up for an drainware API key</a>, and 3) Go to your <a href="plugins.php?page=drainware-key-config">drainware configuration</a> page, and save your API key.
-Version: 2.5.3
+Description: Drainware Comments Filter will keep your blog free of undesirable comments (bad words, pornography, violence, intolerant words) using our Content Filter Engine (CFE) and everything absolutely FREE. 
+Version: 0.1.1 
 Author: Automattic
 Author URI: http://automattic.com/wordpress-plugins/
 License: GPLv2 or later
