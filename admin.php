@@ -141,7 +141,7 @@ function drainware_conf() {
 <div class="narrow">
 <div style="margin: auto; width: 400px; ">
 
-	<p><?php printf(__('<a href="%1$s">Drainware</a> is company focused on content filter systems. We have created Drainware WP to help you keeping your Wordpress free of comments with bad words, pornography and violence. Drainware will save you many time moderating your comments with no effort. More information in <a href="%2$s">drainware.com</a>.'), 'http://drainware.com/', 'http://drainware.com/api/'); ?></p>
+	<p><?php printf(__('<a href="%1$s">Drainware</a> is company focused on content filter systems. We have created Drainware WP to help you keeping your Wordpress free of comments with bad words, pornography and violence. Drainware will save you many time moderating your comments with no effort. More information in <a href="%2$s">Drainware</a>.'), 'http://drainware.com/', 'http://www.drainware.com'); ?></p>
 </div>
 
 <form action="" method="post" id="drainware-connectivity" style="margin: auto; width: 400px; ">
