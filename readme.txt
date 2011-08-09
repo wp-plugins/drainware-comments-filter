@@ -3,7 +3,7 @@ Contributors: antoniomoreno
 Tags: drainware, comments, spam
 Requires at least: 3.0
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 
 Drainware Comments Filter will keep your blog free of undesirable comments (bad words, pornography, violence, intolerant words) 
