@@ -37,10 +37,15 @@ define('drainware_PLUGIN_URL', plugin_dir_url( __FILE__ ));
 add_action('wp_footer','display_drainware_footer',20);
 
 function display_drainware_footer() {
+        global $post;
 	global $drainware_api_host, $drainware_api_port, $drainware_last_comment;
    //echo  "<b>Protected by Drainware</b> <a href='http://www.drainware.com'>Content Filtering</a>  Solutions";
    $querystring = '';
-   $query_string="host=" . urlencode(stripslashes(get_permalink())) . "&";
+   if ( is_home() ) {
+    $query_string="&v=1&host=" . urlencode(stripslashes(site_url())) . "&";
+   } else {
+    $query_string="&v=1&host=" . urlencode(stripslashes(get_permalink($post->ID))) . "&";
+   }
    $response = drainware_http_post($query_string, $drainware_api_host, '/index.py/link', $drainware_api_port);
    echo $response[1];
    return true;
