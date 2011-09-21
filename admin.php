@@ -205,7 +205,6 @@ function drainware_conf() {
 </table>
 	<p><?php if ( get_option('drainware_connectivity_time') ) echo sprintf( __('Last checked %s ago.'), human_time_diff( get_option('drainware_connectivity_time') ) ); ?></p>
 	<p class="submit"><input type="submit" name="check" value="<?php _e('Check network status &raquo;'); ?>" /></p>
-	<p><?php printf( __('<a href="%s" target="_blank">Click here</a> to confirm that <a href="%s" target="_blank">drainware.com is up</a>.'), 'http://status.automattic.com/9931/136079/drainware-API', 'http://status.automattic.com/9931/136079/drainware-API' ); ?></p>
 </form>
 
 </div>
