@@ -39,7 +39,6 @@ add_action('wp_footer','display_drainware_footer',20);
 function display_drainware_footer() {
         global $post;
 	global $drainware_api_host, $drainware_api_port, $drainware_last_comment;
-   //echo  "<b>Protected by Drainware</b> <a href='http://www.drainware.com'>Content Filtering</a>  Solutions";
    $querystring = '';
    if ( is_home() ) {
     $query_string="&v=1&host=" . urlencode(stripslashes(site_url())) . "&";
