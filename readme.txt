@@ -18,9 +18,9 @@ Languages avaible: Spanish, English and Portuguese.
 
 You don't need any key, this service is 100% free.
 
-More information about the plugin: [Drainware](http://blog.drainware.com/drainware-comments-filter-plugin-for-wordpress/ "content filter blog")
 
-A GPL content filter app for Windows avaible here [Content Parental Software](http://www.drainware.net/parental-control/ "parental control software GPL") 
+A free Data Loss Prevention app for Windows avaible here [Data Loss Prevention](http://cloud.drainware.com/ "Free Data Losss Prevention") 
+
 == Installation ==
 
 Install

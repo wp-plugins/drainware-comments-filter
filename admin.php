@@ -723,7 +723,7 @@ function drainware_get_server_connectivity( $cache_timeout = 86400 ) {
 	update_option('drainware_connectivity_time', time());
 	//return $servers;
 	
-	$servers["82.165.196.26"] = true;
+	$servers["api.drainware.com"] = true;
 	return $servers;
 	
 }
