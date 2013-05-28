@@ -2,12 +2,12 @@
 /* @package drainware
  */
 /*
-Plugin Name: drainware
+Plugin Name: drainware comments filter
 Plugin URI: http://drainware.com/
 Description: Drainware Comments Filter will keep your blog free of undesirable comments (bad words, pornography, violence, intolerant words) using our Content Filter Engine (CFE) and everything absolutely FREE. 
 Version: 1.3
-Author: Automattic
-Author URI: http://automattic.com/wordpress-plugins/
+Author: drainware 
+Author URI: http://www.drainware.com/
 License: GPLv2 or later
 */
 
