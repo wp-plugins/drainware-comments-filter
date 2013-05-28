@@ -243,7 +243,7 @@ function drainware_stats_display() {
 	if ( is_ssl() )
 		$url = 'https://';
 
-	$url .= 'drainware.com/web/1.0/user-stats.php';
+	$url .= 'api.drainware.com/user-stats.php';
 	$url .= "?blog={$blog}&api_key=" . drainware_get_key();
 	?>
 	<div class="wrap">
